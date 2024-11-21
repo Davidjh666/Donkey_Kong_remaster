@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Donkey_kong_remaster.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B2747938-B3F1-463F-87C4-0CC5F760A5A4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Donkey_kong_remaster.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Donkey_kong_remasterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{66FCF0BE-72FD-4139-8D64-2E82A42EF92C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Donkey_kong_remaster">
+      <UniqueIdentifier>{6B43F46F-E1C0-4519-9576-24702B20E1E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Donkey_kong_remaster\Donkey_kong_remaster.Build.cs">
+      <Filter>Source\Donkey_kong_remaster</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Donkey_kong_remaster\Donkey_kong_remaster.cpp">
+      <Filter>Source\Donkey_kong_remaster</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Donkey_kong_remaster\Donkey_kong_remaster.h">
+      <Filter>Source\Donkey_kong_remaster</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Donkey_kong_remaster\Donkey_kong_remasterCharacter.cpp">
+      <Filter>Source\Donkey_kong_remaster</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Donkey_kong_remaster\Donkey_kong_remasterCharacter.h">
+      <Filter>Source\Donkey_kong_remaster</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Donkey_kong_remaster\Donkey_kong_remasterGameMode.cpp">
+      <Filter>Source\Donkey_kong_remaster</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Donkey_kong_remaster\Donkey_kong_remasterGameMode.h">
+      <Filter>Source\Donkey_kong_remaster</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Donkey_kong_remaster\proyectil.cpp">
+      <Filter>Source\Donkey_kong_remaster</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Donkey_kong_remaster\proyectil.h">
+      <Filter>Source\Donkey_kong_remaster</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

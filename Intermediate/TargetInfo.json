@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Donkey_kong_remaster",
+			"Path": "C:\\Users\\lenovo\\Documents\\Unreal Projects\\Donkey_kong_remaster\\Source\\Donkey_kong_remaster.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Donkey_kong_remasterEditor",
+			"Path": "C:\\Users\\lenovo\\Documents\\Unreal Projects\\Donkey_kong_remaster\\Source\\Donkey_kong_remasterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
